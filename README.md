@@ -7,3 +7,5 @@ HOW TO USE BOOKMARKLETS (ItS RLLY EZ)
   5. Change the name if you want then press save
   6. If you want to test a bookmarklet they WILL NOT WORK ON A NEW TAB you will have to go to a site and press the bookmark
   7. DISCLAMER: ALL BOOKMARKLETS ARE DIFFERENT THEY WILL NOT ALL WORK THE SAME
+  
+                        NONE OF THESE ARE MINE
