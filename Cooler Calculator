@@ -1,0 +1,1 @@
+javascript: fetch("https://raw.githubusercontent.com/Penguinify/math-bookmarklet/main/dist/bundle.js").then(r => r.text()).then(r => eval(r))
